@@ -3,8 +3,8 @@ package handler
 import (
 	"github.com/gin-gonic/gin"
 	"net/http"
-	"Tugas-13-Gin-dan-Postgres/database"
-	"Tugas-13-Gin-dan-Postgres/model"
+	"railway-go-gin-bioskop/database"
+	"railway-go-gin-bioskop/model"
 	"strconv"
 )
 
